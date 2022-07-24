@@ -1,4 +1,4 @@
-# Welcome to The Dev Pit 👋
+# Welcome to The Dev Pit GitHub Org👋
 
 ### 🙋‍♀️ Intro
 
@@ -12,6 +12,12 @@ The Dev Pit is a peer support group for student programmers persuing CS/tech maj
 ### 🍿 Fun facts
 
 - We host a movie night once a month as a chance to hang out and connect with other students.
+
+<br/><br/><br/>
+
+***
+
+[Code of Conduct](https://github.com/The-Dev-Pit/.github-private/blob/main/CODE_OF_CONDUCT.md)
 
 <!--
 
